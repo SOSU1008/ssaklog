@@ -4,7 +4,7 @@
   "private": true,
   "main": "index.tsx",
   "scripts": {
-    "dev": "next -p 3080",
+    "dev": "next -p 3000",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
